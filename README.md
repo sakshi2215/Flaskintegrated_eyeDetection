@@ -2,4 +2,4 @@
 It uses Flaskbased where the user will upload an image and it will predict whether it has open eyes or closed eyes.
 Open the terminal and run "python main.py"
 
-![Alt text]Screenshot (44).png
+![Alt text][Screenshot (44).png](https://github.com/sakshi2215/Flaskintegrated_eyeDetection/blob/master/Screenshot%20(44).png)https://github.com/sakshi2215/Flaskintegrated_eyeDetection/blob/master/Screenshot%20(44).png)
