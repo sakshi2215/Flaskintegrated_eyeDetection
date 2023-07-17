@@ -1,2 +1,3 @@
 # Flaskintegrated_eyeDetection
-Uses Flaskbased where user will upload an image and it will predict weather it has open eyes or closed eye.
+It uses Flaskbased where the user will upload an image and it will predict whether it has open eyes or closed eyes.
+Open the terminal and run "python main.py"
